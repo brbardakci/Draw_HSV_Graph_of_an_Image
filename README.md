@@ -4,7 +4,7 @@ Getting image detection and draw hsv graph and size of an image
 <p>Which is you need to download before use code</p>
 <h2>README</h2>
 <p>About Code</p>
-<h3>Reference</h3>
+<h2>Reference</h2>
 <p>main idea of the code</p>
 
 <ul>
